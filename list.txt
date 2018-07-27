@@ -20,3 +20,13 @@ dr-xr-x---.  21 root root 4096 Jul 26 12:27 root
 drwxr-xr-x   19 root root 3360 Jul 26 16:08 dev
 drwxr-xr-x   49 root root 1520 Jul 27 06:22 run
 drwxrwxrwt.  17 root root 4096 Jul 27 09:43 tmp
+Filesystem               Size  Used Avail Use% Mounted on
+/dev/mapper/centos-root   39G   11G   28G  29% /
+devtmpfs                 2.9G     0  2.9G   0% /dev
+tmpfs                    2.9G     0  2.9G   0% /dev/shm
+tmpfs                    2.9G  282M  2.6G  10% /run
+tmpfs                    2.9G     0  2.9G   0% /sys/fs/cgroup
+/dev/sda1                497M  217M  281M  44% /boot
+/dev/mapper/centos-home   19G   39M   19G   1% /home
+tmpfs                    581M   48K  581M   1% /run/user/0
+tmpfs                    581M   32K  581M   1% /run/user/1000
